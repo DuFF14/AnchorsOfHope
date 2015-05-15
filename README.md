@@ -7,8 +7,11 @@ credit to jvleearch (https://3dwarehouse.sketchup.com/user.html?id=1744847403693
 
 Use this as a starter project for any similar VR architectural visualization project.
 
-#Download
-Here is a working Unity Windows build:
-
 #Contributing
-You are welcome to contribute to this project with your own scripts, models, scenes, etc.
+This is a community project. You are welcome to contribute with your own models, scripts, scenes, etc.
+The initial goal is to add models which are already freely available, although some post-processing of 3d assets will likely be needed to optimize for virtual reality.
+Here are a bunch of models that can be imported from Google Sketchup 3d Warehouse: https://3dwarehouse.sketchup.com/search.html?q=baltimore&rsi=sbis&backendClass=entity
+See the Issues page for areas where help is needed.
+
+#Requirements
+This project uses the 32-bit version of Unity 5. 64-bit support will be added soon. The 32-bit version of Unity can be downloaded for free under "Additional Downloads" here: https://unity3d.com/get-unity/update
