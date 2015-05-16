@@ -14,7 +14,7 @@ The initial goal is to add models which are already freely available, although s
 
 Here are a bunch of models that can be imported from Google Sketchup 3d Warehouse: <a href="https://3dwarehouse.sketchup.com/search.html?q=baltimore&rsi=sbis&backendClass=entity">Baltimore 3D Models</a>
 
-See the Issues page for areas where help is needed.
+See the <a href="https://github.com/DuFF14/AnchorsOfHope/issues">Issues</a> page for areas where help is needed.
 
 #Requirements
 This project uses the 32-bit version of Unity 5. 64-bit support will be added soon. The 32-bit version of Unity can be downloaded for free under "Additional Downloads" here: <a href="https://unity3d.com/get-unity/update">Download Unity</a>
