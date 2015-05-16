@@ -8,6 +8,11 @@ credit to <a href="https://3dwarehouse.sketchup.com/user.html?id=174484740369362
 
 Use this as a starter project for any similar VR architectural visualization project.
 
+#Purpose
+Visualization of potential development projects.<br>
+Visualization of disparity between neighborhoods.<br>
+Learning.<br>
+
 #Contributing
 This is a community project. You are welcome to contribute with your own models, scripts, scenes, etc.
 The initial goal is to add models which are already freely available, although some post-processing of 3d assets will likely be needed to optimize for virtual reality.
