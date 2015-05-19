@@ -17,6 +17,8 @@ Learning.<br>
 This is a community project. You are welcome to contribute with your own models, scripts, scenes, etc.
 The initial goal is to add models which are already freely available, although some post-processing of 3d assets will likely be needed to optimize for virtual reality.
 
+Here is a tutorial on how to create 3d models using Google Earth and Google Sketchup: <a href="http://www.google.com/earth/learn/3dbuildings.html"> Google Building Maker Tutorial </a>
+
 Here are a bunch of models that can be imported from Google Sketchup 3d Warehouse: <a href="https://3dwarehouse.sketchup.com/search.html?q=baltimore&rsi=sbis&backendClass=entity">Baltimore 3D Models</a>
 
 See the <a href="https://github.com/DuFF14/AnchorsOfHope/issues">Issues</a> page for areas where help is needed.
