@@ -11,7 +11,7 @@ Use this as a starter project for any similar VR architectural visualization pro
 #Purpose
 Visualization of potential development projects.<br>
 Visualization of disparity between neighborhoods.<br>
-Learning.<br>
+Learning how to use the Unity game engine, basic 3d modeling skills, and project collaboration.<br>
 
 #Contributing
 This is a community project. You are welcome to contribute with your own models, scripts, scenes, etc.
